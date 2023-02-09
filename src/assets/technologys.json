@@ -1,0 +1,16 @@
+[
+  { "technology": "React js" },
+  { "technology": "JavaScript" },
+  { "technology": "Node Js" },
+  { "technology": "Express Js" },
+  { "technology": "Git" },
+  { "technology": "Git Hub" },
+  { "technology": "Sequelize Js" },
+  { "technology": "PostgreSQL" },
+  { "technology": "Css" },
+  { "technology": "Sass" },
+  { "technology": "Less" },
+  { "technology": "PHP" },
+  { "technology": "Go" },
+  { "technology": "Solidity" }
+]

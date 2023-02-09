@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Essy",
+    "lastName": "Petrasso",
+    "email": "epetrasso0@fda.gov",
+    "password": "BpUGkm",
+    "category": "Front End Developer",
+    "profilePicture": "https://robohash.org/inciduntconsequunturoccaecati.png?size=50x50&set=set1",
+    "languages": "Español",
+    "technology": "React js",
+    "description": "Soy re bacan"
+  },
+  {
+    "name": "Gonza",
+    "lastName": "Petrasso",
+    "email": "epetrasso0@fda.gov",
+    "password": "BpUGkm",
+    "category": "Front End Developer",
+    "profilePicture": "https://robohash.org/inciduntconsequunturoccaecati.png?size=50x50&set=set1",
+    "languages": "Inglés",
+    "technology": "JavaScript",
+    "description": "asdfasdfsad"
+  },
+  {
+    "name": "Tomas",
+    "lastName": "Petrasso",
+    "email": "epetrasso0@fda.gov",
+    "password": "BpUGkm",
+    "category": "Recruiter",
+    "profilePicture": "https://robohash.org/inciduntconsequunturoccaecati.png?size=50x50&set=set1",
+    "languages": "Aleman",
+    "technology": "Solidity"
+  }
+]
